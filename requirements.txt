@@ -1,0 +1,5 @@
+# Original package versions were not recorded.
+# The code requires mediapipe.solutions.pose.
+opencv-python
+mediapipe
+pywin32

@@ -1,0 +1,39 @@
+# Visual Studio and MSVC generated files
+.vs/
+Debug/
+Release/
+x64/
+x86/
+Intermediate/
+MFC_fall.*/
+*.user
+*.suo
+*.aps
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.ipch
+*.tlog/
+*.exe
+*.dll
+*.res
+*.log
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
